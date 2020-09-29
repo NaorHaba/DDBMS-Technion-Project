@@ -8,4 +8,6 @@
   <li>Data-Analysis.pdf - Statistics extracted from the collected data (written in Hebrew)</li>
   <li>Learning-Notebook.html - ML model defining, training and evaluating in Adobe Spark environment</li>
   <li>Data-Analysis - A pdf file explaining the model and its results (written in Hebrew)</li>
+  <li>notebooks/ETL.py - the implementation of the ETL notebook.
+  <li>notebooks/Learning.py - the implementation of the Learning notebook.
 </ul>
